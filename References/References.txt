@@ -1,0 +1,22 @@
+This is DDW(Driver Drowsiness Warning Computer Vision Project) :
+
+
+Code Links :
+1) https://www.youtube.com/watch?v=RDuLqCT5RxY
+2) https://www.youtube.com/watch?v=OCJSJ-anywc
+3) https://pyimagesearch.com/2017/10/23/raspberry-pi-facial-landmarks-drowsiness-detection-with-opencv-and-dlib/
+4) https://pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+5) https://www.youtube.com/watch?v=-TVUwH1PgBs --> for eyes blink(reference)
+6) https://github.com/eneszzeybek/Driver-Drowsiness-Detection/tree/master --> uses pytorch and CV for eyes closed or opened classification
+
+
+Custom Facial Detectors(DLIB) Training :
+1) https://medium.datadriveninvestor.com/training-alternative-dlib-shape-predictor-models-using-python-d1d8f8bd9f5c
+2) https://pyimagesearch.com/2019/12/16/training-a-custom-dlib-shape-predictor/
+
+
+Others(To Read) :
+1) https://vigneshs4499.medium.com/face-detection-and-landmarks-using-dlib-and-opencv-8c824f50cc78
+2) https://pyimagesearch.com/2021/04/19/face-detection-with-dlib-hog-and-cnn/#:~:text=Figure%207%3A%20Dlib's%20deep%20learning,can%20correctly%20detect%20both%20faces. --> imp to understand why and how dlib is better than HOG+Linear SVM face landmark detections
+3) imutils.face_utils library(imp) - https://github.com/PyImageSearch/imutils/blob/master/imutils/face_utils/helpers.py
+4) https://pypi.org/project/pyttsx3/ --> for text to speech
